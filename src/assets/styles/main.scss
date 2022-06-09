@@ -1,0 +1,20 @@
+//Setup
+@import "setup/variables";
+@import "setup/fonts";
+
+//Basics
+@import "basics/helpers";
+@import "basics/base";
+@import "basics/layout";
+
+// Pages
+@import "pages/home";
+
+//Cmp
+@import "cmp/header";
+@import "cmp/quotes";
+
+//Subjects
+@import "cmp/subjects/subjects";
+@import "cmp/subjects/subject-list";
+@import "cmp/subjects/subject-preview";

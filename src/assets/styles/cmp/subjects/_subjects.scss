@@ -1,0 +1,16 @@
+.subjects {
+    background-color: $clr3;
+    
+    .subjects-container {
+        grid-column: 2;
+        column-gap: 132px;
+
+        h2{
+            font-size: 48px;
+            max-width: 445px;
+        }
+        p{
+
+        }
+    }
+}

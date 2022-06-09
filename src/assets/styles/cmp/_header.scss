@@ -1,0 +1,52 @@
+.header {
+    background-color: $clr1;
+
+    .header-container {
+        grid-column: 2;
+        padding: 75px 0 255px;
+        row-gap: 139px;
+
+        .nav-bar {
+            font-size: 18px;
+
+            :nth-child(2) {
+                margin-left: 80px;
+            }
+
+            :nth-child(3) {
+                margin-left: 40px;
+            }
+
+        }
+
+        .contact-us {
+            font-size: 18px;
+            border: solid 2px;
+            padding: 10px 32px;
+            border-radius: 5em;
+        }
+
+        .headline {
+            column-gap: 80px;
+
+            h1 {
+                font-family: Livvic-Bold;
+                font-weight: 700;
+                font-size: 100px;
+                min-width: 588px;
+                line-height: 100px;
+
+                span {
+                    color: $clr4;
+                }
+            }
+
+            p {
+                align-self: flex-end;
+                max-width: 445px;
+                font-size: 18px;
+                line-height: 28px;
+            }
+        }
+    }
+}
