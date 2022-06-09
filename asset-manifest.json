@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Team/static/css/main.98a16824.css",
-    "main.js": "/My-Team/static/js/main.390fd6e0.js",
+    "main.css": "/My-Team/static/css/main.c00453e1.css",
+    "main.js": "/My-Team/static/js/main.59bf0991.js",
     "static/js/787.28cb0dcd.chunk.js": "/My-Team/static/js/787.28cb0dcd.chunk.js",
     "static/media/Livvic-MediumItalic.ttf": "/My-Team/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
     "static/media/Livvic-Bold.ttf": "/My-Team/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
@@ -9,12 +9,12 @@
     "static/media/Livvic-Regular.ttf": "/My-Team/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "service-worker.js": "/My-Team/service-worker.js",
     "index.html": "/My-Team/index.html",
-    "main.98a16824.css.map": "/My-Team/static/css/main.98a16824.css.map",
-    "main.390fd6e0.js.map": "/My-Team/static/js/main.390fd6e0.js.map",
+    "main.c00453e1.css.map": "/My-Team/static/css/main.c00453e1.css.map",
+    "main.59bf0991.js.map": "/My-Team/static/js/main.59bf0991.js.map",
     "787.28cb0dcd.chunk.js.map": "/My-Team/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98a16824.css",
-    "static/js/main.390fd6e0.js"
+    "static/css/main.c00453e1.css",
+    "static/js/main.59bf0991.js"
   ]
 }
